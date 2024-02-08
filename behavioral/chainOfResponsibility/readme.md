@@ -9,11 +9,13 @@ Si ha, quindi, una catena di destinatari e la richiesta si passa all'intera cate
 
 
 ## Struttura
-![chainOfResponsiobility.png](..%2F..%2F..%2F..%2FDownloads%2FchainOfResponsiobility.png)
+![chainOfResponsiobility](https://github.com/leotodisco/Design-Patterns/assets/80098232/f93048f6-3cd9-4729-9a68-5bba41a41043)
+
 
 **N.B.** a volte si potrebbe gestire la catena come una lista anzichè tenere solo un riferimento al prossimo handler, tuttavia questa tecnica renderebbe più complesso gestire precondizioni o postcondizioni.
 
 ## Class Diagram del progetto qui riportato:
-![MyUMLchainOfResponsibility.png](..%2F..%2F..%2F..%2FDownloads%2FMyUMLchainOfResponsibility.png)
+![MyUMLchainOfResponsibility](https://github.com/leotodisco/Design-Patterns/assets/80098232/8be67a77-0fd1-4ff1-bcd1-7e4d37184d4a)
+
 
 
