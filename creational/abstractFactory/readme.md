@@ -19,4 +19,4 @@ Questo Pattern si usa quando:
 - Rende difficile estendere l'applicazione aggiungendo nuove famiglie poichè potrebbe causare esplosione del numero di classi.
 
 ## Struttura dell'esempio presentato
-![struttura.png](..%2F..%2F..%2F..%2FDownloads%2Fstruttura.png)
+![struttura](https://github.com/leotodisco/Design-Patterns/assets/80098232/02e4d9a4-37e0-4f56-9144-cf6b4fcba72c)
