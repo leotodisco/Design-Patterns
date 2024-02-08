@@ -1,4 +1,4 @@
-## Builder
+# Builder
 Questo design pattern separa la costruzione di oggetti complessi dalla loro rappresentazione
 
 ## Quando usare un builder
@@ -12,3 +12,4 @@ Puoi usare questo pattern quando il processo di costruzione deve permettere diff
 - Director: colui che conosce le "ricette" e quindi richiama i builder per costruire le cose a suo piacimento, in sintesi è un client
 
 ## Struttura
+![builderUML](https://github.com/leotodisco/Design-Patterns/assets/80098232/19dfd2cc-b3de-4871-8bff-724d18181d3d)
