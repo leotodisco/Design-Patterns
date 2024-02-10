@@ -38,4 +38,5 @@ public class EncryptionDecorator extends DataSourceDecorator {
 }
 ```
 
-![decorator-2.png](..%2F..%2F..%2F..%2FDownloads%2Fdecorator-2.png)
+![decorator-2](https://github.com/leotodisco/Design-Patterns/assets/80098232/088138e4-695c-4165-8ebd-10e9875e6d59)
+
