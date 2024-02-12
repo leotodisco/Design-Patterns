@@ -20,7 +20,8 @@ Gli attori del sistema sono:
 - Client: colui che si occupa di creare un Command e di associargli un Receiver
 - Invoker: colui che richiede di eseguire una richiesta
 
-![struttura_command.png](..%2F..%2F..%2F..%2FDownloads%2Fstruttura_command.png)
+![struttura_command](https://github.com/leotodisco/Design-Patterns/assets/80098232/c9a0cfca-ab1a-4727-9df4-f01a4085a475)
+
 
 Nell'esempio qui proposto vogliamo semplicemente gestire apertura, salvataggio e scrittura su un semplice file txt.
 
