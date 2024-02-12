@@ -24,4 +24,5 @@ Gli attori del sistema sono:
 
 
 Nell'esempio qui proposto vogliamo semplicemente gestire apertura, salvataggio e scrittura su un semplice file txt.
+Nell'interfaccia Command viene anche gestito la undo.
 
