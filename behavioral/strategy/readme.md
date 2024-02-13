@@ -19,9 +19,8 @@ Gli attori sono:
 - **Context**: colui che interagisce con lo strategy. Pensalo come un client.
 
 La struttura generica è la seguente:
-![strategy_struttura.png](..%2F..%2F..%2F..%2FDownloads%2Fstrategy_struttura.png)
+![strategy_struttura](https://github.com/leotodisco/Design-Patterns/assets/80098232/5eae3b6a-55c5-4e5e-ae96-63c42f1e3a0a)
 
-Mentre un la struttura dell'esempio proposto è la seguente:
 
 
 ## Punti di forza dello Strategy 
