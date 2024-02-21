@@ -22,7 +22,8 @@ Parliamo di Virtual Proxy quando il proxy deve creare un oggeto costoso on deman
 - **RealSubject**: oggetto costoso da creare
 - **SubjectProxy** è il proxy che ha un riferimento all'oggetto concreto e lo crea
 
-![Diagramma senza titolo.drawio-2.png](..%2F..%2F..%2F..%2FDownloads%2FDiagramma%20senza%20titolo.drawio-2.png)
+![Diagramma senza titolo drawio-2](https://github.com/leotodisco/Design-Patterns/assets/80098232/1c64c5d3-ffb2-4d5e-b4c4-8d382b0dfd3f)
+
 
 Il proxy promuove anche il basso accoppiamento fra le componenti.
 
