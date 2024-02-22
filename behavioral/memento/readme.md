@@ -10,7 +10,7 @@ con un Design Pattern Command e il Memento si occupa solamente di supportare und
 ## Attori e Struttura
 
 - Originator: colui di cui si vuole tenere traccia dello stato e crea il memento;
-- Memento: ccoli che si occupa di estrarre lo stato.
+- Memento: si occupa di estrarre lo stato.
 
 ![Diagramma senza titolo drawio-4](https://github.com/leotodisco/Design-Patterns/assets/80098232/17bcff12-c567-4539-a6dc-8fb0f4596e5f)
 
